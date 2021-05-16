@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm CrazyHsu
+I'm glad you to be here :grin:. 
+
+[![CrazyHsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyHsu&bg_color=45,E74C3C,9B59B6&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHsu&bg_color=45,E74C3C,9B59B6&title_color=ffffff&text_color=ffffff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+**Languages and Tools:**  
+
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png"></code>
+
 
 <!--
 **CrazyHsu/CrazyHsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
