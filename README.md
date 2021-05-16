@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm CrazyHsu
 I'm glad you to be here :grin:. 
 
-[![CrazyHsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyHsu&bg_color=45,E74C3C,9B59B6&title_color=ffffff&text_color=ffffff)](https://github.com/CrazyHsu/CrazyHsu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHsu&bg_color=45,E74C3C,9B59B6&title_color=ffffff&text_color=ffffff&layout=compact)](https://github.com/CrazyHsu/CrazyHsu)
+[![CrazyHsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyHsu&bg_color=45,E74C3C,9B59B6&title_color=ffffff&text_color=ffffff)](https://github.com/CrazyHsu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHsu&bg_color=45,E74C3C,9B59B6&title_color=ffffff&text_color=ffffff&layout=compact)](https://github.com/CrazyHsu/)
 
 **Languages and Tools:**  
 
